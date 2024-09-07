@@ -14,4 +14,4 @@ I'm Radoslav Nemeth - Software Engineer based in Bratislava focused on developin
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-nine-umber-13.vercel.app/api?username=nemethrad&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&locale=en" alt="nemethrad" /></p>
+<p>&nbsp;<img align="center" src="github-readme-stats-nine-umber-13.vercel.app/api?username=nemethrad&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&locale=en" alt="nemethrad" /></p>
