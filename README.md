@@ -1,10 +1,4 @@
 <h1 align="left">Hello 👋</h1>
-I'm Radoslav Nemeth - Software Engineer based in Bratislava focused on developing new skills.
-<h3 align="left">Contact me</h3>
-
-- Reach me at **hello@nemethr.tech**
-
-- Or at discord **nemethr**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
